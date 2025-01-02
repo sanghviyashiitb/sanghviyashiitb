@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Yash Sanghvi, currently a 5th year PhD student at [i2-lab, Purdue University](https://engineering.purdue.edu/ChanGroup/). My research interests include inverse problems, signal processing, and deep learning. You can find code repositories for some of my papers here. 
+I am Yash Sanghvi, currently a camera systems engineer at Qualcomm, San Diego. I graduated with a PhD in Electrical and Computer Engineering from [i2-lab, Purdue University](https://engineering.purdue.edu/ChanGroup/) in 2024. My research interests include inverse problems, signal processing, and deep learning. You can find code repositories for some of my papers here. 
 
